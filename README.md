@@ -31,7 +31,7 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
 ### Setup
 ```
-$ cd designo-website
+$ cd bookmark
 $ npm install
 $ npm start
 ```
